@@ -7,9 +7,8 @@ Este projeto realiza uma análise exploratória dos dados de vendas de quatro fo
 
 * Padrões gerais de vendas.
 * Desempenho de diferentes categorias de produtos e produtos específicos.
-* Distribuição geográfica das vendas.
-* Avaliação dos clientes e formas de pagamento mais comuns.
-* Comparação do desempenho entre as diferentes lojas/fontes de dados.
+* Avaliação dos clientes 
+* Comparação do faturamento entre as diferentes lojas/fontes de dados.
 
 A análise visa fornecer uma compreensão abrangente do comportamento de compra dos clientes e do desempenho das vendas nas diferentes unidades ou fontes de dados.
 
@@ -32,13 +31,8 @@ O notebook `AluraStoreBr.ipynb` realiza diversas análises, gerando visualizaç�
 
 * **Visão Geral dos Dados:** Carregamento, tratamento inicial (tipos de dados, valores ausentes) e unificação dos dados das 4 lojas.
 * **Vendas por Categoria:** Gráficos de barras mostrando as categorias de produtos mais vendidas em termos de quantidade e/ou valor total.
-* **Vendas ao Longo do Tempo:** Gráficos de linha mostrando a evolução das vendas (número de pedidos ou faturamento) ao longo dos meses ou anos.
-* **Distribuição Geográfica:** Mapas ou gráficos de barras mostrando a distribuição das vendas por estado (`Local da compra`).
-* **Avaliação Média:** Cálculo e visualização da avaliação média das compras, possivelmente segmentada por loja ou categoria.
-* **Produtos Mais/Menos Vendidos:** Listas ou gráficos identificando os produtos com maior e menor volume de vendas.
-* **Análise de Pagamentos:** Distribuição dos tipos de pagamento utilizados e análise da quantidade de parcelas.
-
-*(Nota: Como não posso executar o notebook, os exemplos acima são baseados na estrutura e nos objetivos inferidos do arquivo .ipynb. Os gráficos e insights específicos gerados podem ser visualizados ao executar o notebook.)*
+* **Avaliação Média:** Cálculo e visualização da avaliação média das compras
+* **Produtos Mais/Menos Vendidos:** Listas e gráficos identificando os 3 produtos com maior e menor volume de vendas.
 
 ## 4. Instruções para Executar o Notebook
 
